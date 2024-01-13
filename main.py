@@ -1,21 +1,6 @@
 import customtkinter as ct
 import sympy as sp
 
-"""
-- Ecran en haut qui affiche ce qu'on calcule est resultat
-- bouton des chiffres
-- bouton virgule
-- bouton opération (+ - * /)
-- bouton egal -> affiche le résultat
-
-A faire : 
-     ln(x)
-     e(x)
-     sin(x)
-     cos(x)
-     tan(x)
-
-"""
 
 
 class Calculator:
